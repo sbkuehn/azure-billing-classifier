@@ -2,6 +2,8 @@
 
 # Classify Azure subscriptions by billing structure
 # Detects EA vs MCA, CSP indicators, and MACC
+# Author: Shannon Eldridge-Kuehn
+# Date: January 2026
 
 set -euo pipefail
 
