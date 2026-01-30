@@ -58,9 +58,9 @@ Summary:
 
 Detailed Results:
 
-SubscriptionName          AgreementType              IsCSP HasMACC OfferType
-----------------          -------------              ----- ------- ---------
-Production-EA             EnterpriseAgreement        False False   MS-AZR-0017P
+SubscriptionName         AgreementType              IsCSP HasMACC OfferType
+----------------         -------------              ----- ------- ---------
+Production-EA            EnterpriseAgreement        False False   MS-AZR-0017P
 DevTest-EA               EnterpriseAgreement        False False   MS-AZR-0148P
 Production-MCA           MicrosoftCustomerAgreement False True    MS-AZR-0017P
 Customer-A               MicrosoftCustomerAgreement True  False   MS-AZR-0145P
