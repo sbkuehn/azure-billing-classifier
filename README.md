@@ -196,4 +196,4 @@ Originally developed from practical experience working with Azure billing at Mic
 For issues or questions:
 - Open an issue in this repository
 - Check the troubleshooting section above
-- Review the blog post (link in repository)
+- [Review the blog post](https://www.shankuehn.io/post/stop-guessing-how-to-actually-identify-your-azure-billing-structure)
