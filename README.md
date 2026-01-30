@@ -162,7 +162,7 @@ Once you know your billing structure:
 
 ## API Versions
 
-The scripts use the following API versions (current as of January 2025):
+The scripts use the following API versions (current as of January 2026):
 
 - Billing API: `2024-04-01`
 - Subscription API: `2020-01-01`
