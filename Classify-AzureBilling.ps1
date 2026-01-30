@@ -26,6 +26,10 @@
 
 .EXAMPLE
   .\Classify-AzureBilling.ps1 -OutputPath ".\billing.csv" -ShowDetails $false
+
+.AUTHOR
+Shannon Eldridge-Kuehn
+January 2026
 #>
 
 param(
