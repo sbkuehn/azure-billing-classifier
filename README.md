@@ -197,7 +197,3 @@ For issues or questions:
 - Open an issue in this repository
 - Check the troubleshooting section above
 - Review the blog post (link in repository)
-
----
-
-**Remember:** Assumptions are expensive. Scripts are cheap.
