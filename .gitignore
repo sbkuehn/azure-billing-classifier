@@ -1,0 +1,28 @@
+# Output files
+*.csv
+*.xlsx
+*.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# PowerShell specific
+*.ps1xml
+
+# Logs
+*.log
+
+# Azure specific
+.azure/
+
+# Test files
+test/
+temp/
